@@ -1,0 +1,26 @@
+.MTPopup
+{
+  background-color: rgba(255, 255, 0, 0.5);
+  text-shadow:
+    0px 0px 20px white,
+    1px 0px 1px white,
+    -1px 0px 1px white,
+    0px 1px 1px white,
+    0px -1px 1px white;
+  position: fixed;
+  border: 0px;
+  right: 0px;
+  width: 100% !important;
+  top: 0px !important;
+  z-index: 10000 !important;
+}
+.popup-main
+{
+  font-size: 125%;
+}
+.EditTranslation
+{
+  opacity: 0.3;
+  font-size: 80%;
+}
+
